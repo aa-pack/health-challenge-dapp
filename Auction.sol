@@ -1,6 +1,6 @@
 pragma solidity >=0.4.22 <0.6.0;
 
-contract MartianAuction {
+contract Auction {
     address deployer;
     address payable public beneficiary;
 
